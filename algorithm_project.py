@@ -1,4 +1,4 @@
-#Deniz Hisarkaya__21532184, Meral Öztürk__21833388
+#Deniz Hisarkaya
 
 import sys
 import random
